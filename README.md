@@ -27,7 +27,7 @@ This project about third party authentication with Google account.
 
 #### dashboard page preview
 
-![alt text](https://github.com/denizsucu/NodeJs-GoogleAuthentication/blob/master/images/img1.PNG)
+![alt text](https://github.com/denizsucu/NodeJs-GoogleAuthentication/blob/master/images/img3.PNG)
 
 ---
 
